@@ -1,0 +1,74 @@
+﻿  Source.cpp
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1174,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1174,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1175,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1175,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1176,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1176,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1179,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1179,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1180,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1180,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1181,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1181,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1184,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1184,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1185,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1185,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1186,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1186,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1189,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1189,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1190,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1190,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1191,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1191,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1194,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1194,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1195,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1195,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1196,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1196,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1199,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1199,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1200,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1200,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1201,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1201,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1204,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1204,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1205,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1205,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1206,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1206,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1209,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1209,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1210,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1210,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1211,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1211,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1214,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1214,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1215,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1215,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1216,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1216,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1219,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1219,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1220,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1220,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1221,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1221,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1224,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1224,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1225,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1225,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1226,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1226,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1229,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1229,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1230,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1230,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1231,15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\2DScene\Source.cpp(1231,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  2DScene.vcxproj -> C:\Users\xhizt\OneDrive\Documents\OpenGL\RJBTextures\textures\2DScene\Debug\2DScene.exe
